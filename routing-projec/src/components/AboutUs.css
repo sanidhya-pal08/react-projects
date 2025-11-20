@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+:root {
+  --primary-red:#4B2E2B;
+  --primary-yellow:#EADCC2;
+}
+.container{
+    background-color: var(--primary-yellow);
+    display: flex;
+    gap: 50px;
+    width: 100%;
+    padding-top: 70px;
+    padding-bottom: 42px;
+    align-items: center;
+}
+.left-text{
+    width: 60%;
+    color: var(--primary-red);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#photu{
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+}

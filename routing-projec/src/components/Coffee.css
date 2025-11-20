@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.topcontainer{
+   display: flex;
+   flex-direction: row;
+   gap: 36px;
+   background-color: var(--primary-yellow);
+   width: 100%;
+   padding: 85px;
+   padding-bottom: 115px;
+   padding-left: 105px;
+   overflow-x: hidden;
+}
+:root {
+  --primary-red:#4B2E2B;
+  --primary-yellow:#EADCC2;
+}
+.list{
+    list-style: none;
+    color: var(--primary-red);
+}
+h5{
+    color: var(--primary-red);
+}

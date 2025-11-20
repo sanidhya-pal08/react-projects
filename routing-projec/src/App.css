@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+:root {
+  --primary-red:#4B2E2B;
+  --primary-yellow:#EADCC2;
+}
+.parent{
+  background-color: var(--primary-yellow);
+}
