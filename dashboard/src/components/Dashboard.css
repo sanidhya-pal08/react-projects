@@ -1,0 +1,105 @@
+.heading{
+    color: white;
+    margin-top:20px;
+}
+.dashboard-continer{
+    display: flex;
+    margin: 20px;
+    flex-direction: column;
+    gap: 70px;
+}
+.textboxone{
+   width: 220px;
+   height: 300px;
+   background-color: #1b1b1b;
+   border-radius: 15px;
+   color: #eaeaea;
+   display: flex;
+   flex-direction: column;
+   gap: 90px;
+   font-size: 20px;
+   padding: 20px;
+   padding-top: 50px;
+
+}
+.boxline1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.boxline2{
+    display: flex;
+    gap: 40px;
+    font-size: 35px;
+}
+.textbox2{
+   width: 220px;
+   height: 300px;
+   background-color: #eaeaea;
+   border-radius: 15px;
+   color: #1b1b1b;
+   display: flex;
+   flex-direction: column;
+   gap: 90px;
+   font-size: 20px;
+   padding: 20px;
+   padding-top: 50px;
+
+}
+.graph-box{
+    width: 650px;
+    height: 300px;
+    background-color: #1b1b1b;
+    display: flex;
+    padding-top: 15px;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    padding-bottom: 15px;
+}
+.firstline{
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+}
+.secondline{
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+}
+.boxone{
+    height: 220px;
+    width: 250px;
+    background-color: #eaeaea;
+    border-radius: 12px;
+   
+     color: #1b1b1b;
+   display: flex;
+   flex-direction: column;
+   gap: 70px;
+   font-size: 18px;
+   padding: 20px;
+   padding-top: 30px;
+
+}
+.boxtwo{
+    height: 220px;
+    width: 250px;
+    background-color: #1b1b1b;
+    border-radius: 12px;
+}
+.areagraph{
+    width: 590px;
+    height: 220px;
+    background-color: #1b1b1b;
+    border-radius: 17px;
+    fill: white;
+}
+.circularbar{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+}
+p{
+    font-size:25px;
+}

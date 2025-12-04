@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sidebar-box{
+    height: 80vh;
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
+.main-content{
+    width: 80vw;
+    height: 100vh;
+}

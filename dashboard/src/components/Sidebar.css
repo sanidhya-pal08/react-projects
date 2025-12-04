@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sidebar-container{ 
+     background-color:#1b1b1b;
+     display:flex;
+     flex-direction: column;
+     height: 100%;
+     width: 60%;
+     padding-top: 45px;
+     gap: 50px;
+     line-height:55px;
+    }
+.dabba{
+    font-size: 27px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 16px;
+    color: white;
+   
+}
+.dabba:hover{
+    color: white;
+}
+.active-link{
+border: 0.1px solid white;
+}
